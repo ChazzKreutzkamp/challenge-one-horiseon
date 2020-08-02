@@ -17,3 +17,5 @@ rid of to remove redundancy, as it legitimately wasn't doing anything, as the de
 the p tag is 16px font size, so to eliminate redundancy again this code was removed. This
 means that both the acceptance criteria, and the scout rule were upheld in this assignment.
 (note: I accidentally broke my first repository that held my project so a screensot has been added of the past commits to the resources folder.)
+
+link: https://chazzkreutzkamp.github.io/challenge-one-horiseon/#social-media-marketing
